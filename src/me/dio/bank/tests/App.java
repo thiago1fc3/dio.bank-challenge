@@ -1,4 +1,8 @@
-package me.dio.bank.domain;
+package me.dio.bank.tests;
+
+import me.dio.bank.domain.CheckingAccount;
+import me.dio.bank.domain.Client;
+import me.dio.bank.domain.SavingsAccount;
 
 import java.math.BigDecimal;
 

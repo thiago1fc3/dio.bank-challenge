@@ -4,7 +4,7 @@ public class SavingsAccount extends Account {
 
     private static final String OPERATION = "013";
 
-    protected SavingsAccount(String agency) {
+    public SavingsAccount(String agency) {
         super(agency);
     }
 
